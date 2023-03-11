@@ -17,11 +17,11 @@ body {
 }
 /* General styling end */
 .game {
-    width: 640px;
-    height: 480px;
-    background: url("./images/background.webp")  no-repeat;
+    width: 1000px;
+    height: 580px;
+    background: url("./images/killer-bg-image.gif")  no-repeat;
     background-size: cover;
-    padding: 25px;
+    padding: 30px;
     display: grid;
     grid-template-rows: min-content 1fr min-content;
     text-transform: uppercase;
